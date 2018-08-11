@@ -1,23 +1,20 @@
 # HyperledgerComposer101
 Hyperledger Fabric and Composer 101 Class
 
-**1. Composer Playground**
 
-https://composer-playground.mybluemix.net/login
 
-**2. Model File**
-
+**1. Model File**
 https://github.com/hyperledger/composer-sample-networks/blob/master/packages/carauction-network/models/auction.cto
 
-**3. Script File**
-
+**2. Script File**
 https://github.com/hyperledger/composer-sample-networks/blob/master/packages/carauction-network/lib/logic.js
 
-**4. Access Control File**
-
+**3. Access Control File**
 https://github.com/hyperledger/composer-sample-networks/blob/master/packages/carauction-network/permissions.acl
 
-**5. Generating REST API**
+**4. Composer Playground**
+https://composer-playground.mybluemix.net/login
 
+**5. Generating REST API**
 https://hyperledger.github.io/composer/v0.16/integrating/getting-started-rest-api.html
 

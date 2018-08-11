@@ -17,7 +17,7 @@ https://github.com/hyperledger/composer-sample-networks/blob/master/packages/car
 
 https://github.com/hyperledger/composer-sample-networks/blob/master/packages/carauction-network/permissions.acl
 
-**5. Generating REST API
+**5. Generating REST API**
 
 https://hyperledger.github.io/composer/v0.16/integrating/getting-started-rest-api.html
 

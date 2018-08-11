@@ -12,6 +12,7 @@ https://github.com/hyperledger/composer-sample-networks/blob/master/packages/car
 **3. Script File**
 
 https://github.com/hyperledger/composer-sample-networks/blob/master/packages/carauction-network/lib/logic.js
+
 **4. Access Control File**
 
 https://github.com/hyperledger/composer-sample-networks/blob/master/packages/carauction-network/permissions.acl
